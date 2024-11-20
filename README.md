@@ -1,0 +1,2 @@
+# Online-Village-Committee-Business-Processing-System
+基于Spring Boot和Vue的网上村委会业务办理系统旨在提升村民与政府之间的沟通效率。系统通过Vue.js构建用户友好的前端界面，方便村民在线提交申请、查询进度和获取信息。后端使用Spring Boot处理业务逻辑，确保数据安全和高效处理。该系统简化了传统的办事流程，提供透明便利的服务，增强了村民的参与感和满意度，推动农村数字化转型。
